@@ -8,7 +8,7 @@ def text_to_ascii_art(text, font="standard"):
         print(f"Font '{font}' not found. Using standard font instead.")
         ascii_art = pyfiglet.figlet_format(text)
         return ascii_art
-
+#Outputs
 text = input("Enter text to convert : ")
 font = input("Enter font (press Enter for standard): ")
 ascii_art = text_to_ascii_art(text, font)
