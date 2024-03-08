@@ -53,7 +53,7 @@ python ascii_art.py
 
 Output:
 ```
-Enter text to convert to ASCII art: Hello, World!
+Enter text to convert to ASCII art: Hello
  _   _      _ _
 | | | | ___| | | ___
 | |_| |/ _ \ | |/ _ \
